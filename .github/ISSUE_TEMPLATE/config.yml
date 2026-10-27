@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and theological discussion
+    url: https://github.com/TheScogg/the-unfolding/discussions
+    about: Discuss ideas, ask questions, or share a reflection.

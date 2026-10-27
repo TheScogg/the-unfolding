@@ -1,0 +1,12 @@
+*.pdf binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.pcraft binary
+*.vectorcraft binary
+*.designcraft linguist-generated=true
+*.ecproj linguist-generated=true
+*.svg linguist-generated=true
+
+# Preserve the official license text verbatim.
+licenses/CC-BY-SA-4.0.txt -whitespace
