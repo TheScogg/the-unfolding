@@ -45,7 +45,7 @@ This is an illustrative document, not an implemented technical protocol or a des
 
 Communities describe themselves. An adapter or agreement should be written with them. Partial cooperation is valuable: communities may work together on meals and remain unable to worship together. There is no expectation of progressively increasing access.
 
-Within The Unfolding, the guiding proposal is:
+Within Church of the First Gift, the guiding proposal is:
 
 > Our belief that you share in the gift gives us a responsibility toward you. It gives us no authority to explain you to yourself.
 

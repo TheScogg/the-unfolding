@@ -1,6 +1,6 @@
 # Questions for new members
 
-These answers describe Founding Edition 0.1.0, a proposed tradition. They do not claim that an institution, council, or local congregation already exists.
+These answers introduce Church of the First Gift in its founding stage. The Unfolding is our origin story. Governance remains provisional; no established local congregation or membership registry is being announced here.
 
 ## Questions of belief
 
@@ -36,7 +36,7 @@ Try a minute of attention, make or mend something, and offer a little care. Read
 
 ### Can I belong alongside another religion?
 
-Within this proposed tradition, yes. You need not erase your history or abandon another identity. Any obligations of another community are yours to consider.
+Within Church of the First Gift, yes. You need not erase your history or abandon another identity. Any obligations of another community are yours to consider.
 
 ### Does membership cost money?
 

@@ -1,6 +1,6 @@
 # The shared covenant
 
-The gift is our shared foundation. The giver is our shared question.
+In Church of the First Gift, the gift is our shared foundation. The giver is our shared question.
 
 ## Five commitments
 

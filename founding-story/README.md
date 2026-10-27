@@ -1,4 +1,6 @@
-# The First Gift
+# The Unfolding
+
+*The First Gift: the origin story of Church of the First Gift.*
 
 Before there were stars, there was God.
 
@@ -24,7 +26,7 @@ All inherited the same world. All faced the same task: deciding what to do with 
 
 ## Reading the story
 
-This is the founding spiritual narrative of a proposed tradition. It gives meaning to cosmic origins; it does not claim scientific proof of divine intention or replace scientific inquiry. Its details may be read as theology, sacred poetry, or an invitation to wonder.
+This is the origin story of Church of the First Gift. It gives meaning to cosmic origins; it does not claim scientific proof of divine intention or replace scientific inquiry. Its details may be read as theology, sacred poetry, or an invitation to wonder.
 
 The open question at its ending is intentional. See the [interpretations](../interpretations/README.md). The common response is a practice of [wonder, making, and care](../practices/README.md).
 

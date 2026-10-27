@@ -1,20 +1,22 @@
-# The Unfolding
+# Church of the First Gift
 
-**A religion of the First Gift.**
+**An open spiritual tradition of wonder, making, and care.**
 
 > God became the universe. We are what happens next.
 
 <img src="art/emblem.svg" width="220" alt="An open gold circle radiating outward" />
 
-The Unfolding is an open spiritual tradition built around the First Gift: the belief that God sacrificed himself in the Big Bang to become the universe. We share practices of wonder, making, and care. We disagree about whether the giver survived the gift.
+Church of the First Gift is an open spiritual tradition. **The Unfolding is our origin story**, built around the First Gift: the belief that God sacrificed himself in the Big Bang to become the universe. We share practices of wonder, making, and care. We disagree about whether the giver survived the gift.
 
-This is **Founding Edition 0.1.0**: a new proposal, not a claim to an ancient lineage, an established institution, or scientific proof of divine intention. Its founding idea and editorial direction come from [TheScogg](https://github.com/TheScogg); the initial texts, illustrations, layout, and animation were developed with AI assistance. See [provenance](PROVENANCE.md).
+The church is in its founding stage. Its original publications are **Founding Edition 0.1.0**, published under the earlier working name, The Unfolding. That name now refers to the origin story. We claim neither an ancient lineage nor scientific proof of divine intention. Its founding idea and editorial direction come from [TheScogg](https://github.com/TheScogg); the initial texts, illustrations, layout, and animation were developed with AI assistance. See [provenance](PROVENANCE.md).
 
 You may question these teachings, contribute to them, adapt them, or begin an independent branch. No repository, founder, or council owns your conscience.
 
+**[Visit the website](https://thescogg.github.io/the-unfolding/)** · [Website source and GitHub Pages instructions](website/README.md)
+
 ## Begin here
 
-1. Read [The First Gift](founding-story/README.md).
+1. Read [The Unfolding: The First Gift](founding-story/README.md).
 2. Explore the [shared covenant](covenant/README.md) and [five practices](practices/README.md).
 3. Meet [the Last Light, the Living Whole, and the Questioning](interpretations/README.md).
 4. Browse the [new-member FAQ](faq/README.md).
@@ -57,6 +59,9 @@ faq/               Questions of belief and belonging
 art/               Original illustrations, editable sources, and audio
 publications/      The booklet, brochure, and film information
 proposals/         Drafts, alternatives, and the change process
+docs/              The website published by GitHub Pages
+website/           Website template and maintenance instructions
+scripts/           The dependency-free site builder
 ```
 
 Texts and original art are offered under **CC BY-SA 4.0**, to the extent applicable rights are held. Software scripts are offered under **MIT**. No font files or third-party works are relicensed by this notice. See [LICENSE.md](LICENSE.md).

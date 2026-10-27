@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-27 - Church name and website
+
+- Named the church Church of the First Gift; The Unfolding is the origin story.
+- Updated current repository documentation and recorded the distinction from historical publications.
+- Added a responsive, accessible static website for GitHub Pages, with the story, film, practices, interpretations, and FAQ.
+- Added an optional one-minute attention exercise and a dependency-free site builder.
+
 ## 0.1.0 - Founding Edition
 
 - Published The First Gift, the shared covenant, and five practices.

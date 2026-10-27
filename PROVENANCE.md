@@ -1,8 +1,12 @@
 # Origins and provenance
 
-The Unfolding began as a creative conversation about a new religion centered on the idea that God sacrificed himself in the Big Bang to create us. TheScogg supplied the premise, requested the creative materials, and identified the question of God's continued existence as the religion's central schism.
+Church of the First Gift began as a creative conversation about a new religion centered on the idea that God sacrificed himself in the Big Bang to create us. TheScogg supplied the premise, requested the creative materials, and identified the question of God's continued existence as the religion's central schism.
 
 The founding texts, practices, interpretations, FAQ, community proposal, and visual identity were developed with AI assistance. This is a contemporary founding proposal. It does not claim supernatural dictation, independent historical authority, or scientific confirmation.
+
+## Naming
+
+The original working name for the wider tradition was The Unfolding. On October 27, 2026, the founding editor named the church **Church of the First Gift** and retained **The Unfolding** for its origin story. The repository slug and original release filenames remain unchanged so existing links continue to work. The original PDFs, native design files, and film retain their founding-edition titles as historical publications.
 
 ## Original publications
 

@@ -1,5 +1,7 @@
 # Governance
 
+For Church of the First Gift. The Unfolding is its origin story.
+
 **Status: provisional founding governance, version 0.1.0.**
 
 This document governs the repository and its published editions. It does not govern a person's conscience or claim authority over independent communities.

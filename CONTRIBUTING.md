@@ -1,5 +1,7 @@
 # Contributing
 
+Help shape Church of the First Gift, its origin story The Unfolding, and its shared practices.
+
 Thank you for helping this tradition become more thoughtful, useful, and accessible. You can contribute without writing code or adopting a religious belief.
 
 ## Ways to help

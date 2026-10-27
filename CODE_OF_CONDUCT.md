@@ -1,5 +1,7 @@
 # Code of conduct
 
+For Church of the First Gift and its project spaces.
+
 Our shared table welcomes believers, doubters, people of other traditions, and people of no religion. Belonging does not depend on choosing an interpretation.
 
 ## Expected behavior

@@ -10,13 +10,13 @@ You may copy, translate, remix, publish, and use the licensed material commercia
 
 Suggested attribution:
 
-> Adapted from The Unfolding, Founding Edition 0.1.0, initiated by TheScogg and developed with its contributors. Source: https://github.com/TheScogg/the-unfolding. CC BY-SA 4.0. Changes: [describe your changes].
+> Adapted from Church of the First Gift and The Unfolding founding materials, initiated by TheScogg and developed with its contributors. Source: https://github.com/TheScogg/the-unfolding. CC BY-SA 4.0. Changes: [describe your changes].
 
 Do not imply that the founding editor, maintainers, or another branch endorses your edition. Independent editions are welcome; identify their editor, changes, and relationship to this source clearly.
 
 ## Software
 
-Software source files ending in `.py`, and any future files explicitly marked as software under this notice, are offered under the [MIT license](licenses/MIT.txt). Text, music, and artwork produced by a script remain governed by the content notice above where applicable rights exist. Licensing a script does not license unrelated dependencies.
+Software source files ending in `.py`, `.js`, or `.css`, and any future files explicitly marked as software under this notice, are offered under the [MIT license](licenses/MIT.txt). Text, music, and artwork produced by a script remain governed by the content notice above where applicable rights exist. Licensing a script does not license unrelated dependencies.
 
 ## Scope and third-party material
 
