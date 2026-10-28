@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0 - Painted Film Edition
+
+- Published a 42-second 1080p painted film with layered motion, original music, and disclosed synthetic narration.
+- Added English subtitles, WebVTT captions, a transcript, visual description, production credits, and editable source archive.
+- Updated the website player and poster while preserving the original film and founding publications.
+
 ## 2026-10-27 - Church name and website
 
 - Named the church Church of the First Gift; The Unfolding is the origin story.

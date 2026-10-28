@@ -1,0 +1,16 @@
+{
+  "duration": 42.005,
+  "width": 1920,
+  "height": 1080,
+  "fps": "24/1",
+  "subtitle_tracks": 1,
+  "decoded_frames": 1008,
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "rms": 0.09513877214313766,
+    "peak": 0.6923535466194153
+  },
+  "video_preserved_after_caption_mux": true
+}

@@ -1,5 +1,9 @@
 # The Great Sacrifice & The Unfolding
 
+The current film is the **[Painted Film Edition](painted/README.md)**: 42 seconds of layered paintings, motion, original music, and synthetic narration, with English captions. [Watch it on the website](https://thescogg.github.io/the-unfolding/) or [download the film and editable source](https://github.com/TheScogg/the-unfolding/releases/tag/v0.2.0).
+
+## Original Founding Edition
+
 A 28-second creation story, 1280 x 720, 24 frames per second, with an original stereo ambient score. No stock visuals, stock recordings, samples, or voiceover are used.
 
 The film was authored through the live EffectCraft MCP server with native shapes, text, glow effects, and keyframes. The editable project is [The-Unfolding.ecproj](The-Unfolding.ecproj). Its score is in [(Footage)/The-Unfolding-score.wav](%28Footage%29/The-Unfolding-score.wav); keep that folder beside the project when downloading it. The [score script](create_score.py) synthesizes the music with Python and NumPy.

@@ -1,6 +1,6 @@
 # Church of the First Gift website
 
-The website lives in [`docs/`](../docs/index.html) and is ready for GitHub Pages. It uses ordinary HTML, CSS, JavaScript, local SVG artwork, and system fonts. No Node packages, framework, database, API keys, tracking, or paid hosting are required.
+The website lives in [`docs/`](../docs/index.html) and is ready for GitHub Pages. It uses ordinary HTML, CSS, JavaScript, local artwork, and system fonts. No Node packages, framework, database, API keys, tracking, or paid hosting are required.
 
 **Church of the First Gift** names the church. **The Unfolding** names its origin story. The original booklet and film remain available under their founding-edition titles.
 
@@ -40,7 +40,8 @@ Open `http://localhost:8765` and stop the server with Ctrl+C when finished. Rela
 - The optional attention timer supports start, pause, continue, reset, and completion without accounts or saved data.
 - Mobile navigation supports keyboard operation and Escape to close.
 - The page respects reduced-motion settings and includes a skip link and visible focus styles.
-- The film has native playback controls, a text-description link, and a download fallback. It is loaded from the original public GitHub release only when the visitor chooses playback.
+- The 42-second painted film has native playback controls, English WebVTT captions, a painted poster, a transcript and visual-description link, and a download fallback. Narration uses Daniel, a stock synthetic voice. The film loads from the public v0.2.0 GitHub release when the visitor chooses playback.
+- The site builder copies the poster and captions from `art/film/painted/` into `docs/assets/`.
 
 The page adds no analytics or forms. GitHub Pages and GitHub's media service have their own infrastructure logging and policies.
 

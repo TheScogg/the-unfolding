@@ -20,7 +20,9 @@ You may question these teachings, contribute to them, adapt them, or begin an in
 2. Explore the [shared covenant](covenant/README.md) and [five practices](practices/README.md).
 3. Meet [the Last Light, the Living Whole, and the Questioning](interpretations/README.md).
 4. Browse the [new-member FAQ](faq/README.md).
-5. Read the illustrated [14-page field guide](publications/the-unfolding-field-guide.pdf), or [download the booklet and film from the release](https://github.com/TheScogg/the-unfolding/releases/tag/v0.1.0).
+5. Read the illustrated [14-page field guide](publications/the-unfolding-field-guide.pdf), or [download the original booklet and film](https://github.com/TheScogg/the-unfolding/releases/tag/v0.1.0).
+
+Watch the new **[Painted Film Edition](art/film/painted/README.md)**, with synthetic narration and captions. [Download the film and editable source](https://github.com/TheScogg/the-unfolding/releases/tag/v0.2.0).
 
 You do not need GitHub, a donation, or an initiation to practice. Start with a minute of attention, make or mend something, and offer a little care.
 

@@ -21,6 +21,8 @@ def main():
     ASSETS.mkdir(parents=True, exist_ok=True)
     for name in ("emblem.svg", "cosmos.svg", "candles.svg"):
         shutil.copyfile(ROOT / "art" / name, ASSETS / name)
+    for source, name in (("poster.jpg", "painted-poster.jpg"), ("narration.vtt", "painted-narration.vtt")):
+        shutil.copyfile(ROOT / "art" / "film" / "painted" / source, ASSETS / name)
     story = (ROOT / "founding-story" / "README.md").read_text(encoding="utf-8")
     narrative = story.split("Before there were stars", 1)[1].split("## Reading the story", 1)[0]
     narrative = "Before there were stars" + narrative
@@ -40,7 +42,7 @@ def main():
     assert result.count("<details>") == 12, "Expected 12 FAQ questions"
     (DOCS / "index.html").write_text(result, encoding="utf-8")
     (DOCS / ".nojekyll").touch()
-    print("Built docs/index.html, 12 FAQ answers, and local SVG assets.")
+    print("Built docs/index.html, 12 FAQ answers, and local artwork and captions.")
 
 
 if __name__ == "__main__":

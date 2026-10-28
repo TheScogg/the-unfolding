@@ -8,6 +8,10 @@ The founding texts, practices, interpretations, FAQ, community proposal, and vis
 
 The original working name for the wider tradition was The Unfolding. On October 27, 2026, the founding editor named the church **Church of the First Gift** and retained **The Unfolding** for its origin story. The repository slug and original release filenames remain unchanged so existing links continue to work. The original PDFs, native design files, and film retain their founding-edition titles as historical publications.
 
+## Painted Film Edition 0.2.0
+
+The new 42-second film uses four paintings generated with OpenAI's built-in image generation tool and animated through the live EffectCraft MCP server. Its original synthesized score and narration were mixed in SoundCraft. Narration uses Daniel, a stock macOS synthetic voice; no real person was cloned. The ending credits disclose synthetic narration. See the [production notes, exact image prompts, transcript, and verification](art/film/painted/README.md). The downloadable editable source includes all referenced paintings and the final mix, with relative media paths. Voice software and model files are not included or relicensed.
+
 ## Original publications
 
 - The six-panel brochure introduced the First Gift, wonder, making, and care.

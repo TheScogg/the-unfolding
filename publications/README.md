@@ -2,6 +2,10 @@
 
 Publications of **Church of the First Gift**. **The Unfolding** is the church's origin story. The original files below retain the working title used before the church received its present name.
 
+## Painted Film Edition 0.2.0
+
+[The Unfolding: Painted Film Edition](../art/film/painted/README.md) is a 42-second, 1080p film with layered paintings, an original ambient score, synthetic narration, and English captions. [Download the film, captions, and complete editable EffectCraft source](https://github.com/TheScogg/the-unfolding/releases/tag/v0.2.0).
+
 ## Founding Edition 0.1.0
 
 - [The Unfolding: A Field Guide to the First Gift](the-unfolding-field-guide.pdf): 14 illustrated pages, 7 x 9 inches, searchable text, in reading order. Covers the founding story, covenant, five practices, interpretations, candle ceremony, FAQ, and blessing. All pages were rendered and visually checked.
